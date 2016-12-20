@@ -1,3 +1,14 @@
 # Project 5: Capstone
 
-The Capstone Project for the Machine Learning Engineer Nanodegree does not have any requirements for code, libraries, or datasets. You are free to choose your project as you wish! For students who are unable to construct a capstone project on their own imagination, a pre-built project has been provided in `robot_motion_planning`.
+The Capstone Project for the Machine Learning Engineer Nanodegree.
+
+## Contents
+
+- README.md
+- project_report.pdf
+- 1_download.ipynb
+- 2_visualization.ipynb
+- 3_preprocessing.ipynb
+- 4_convolutions.ipynb
+- tensorboard.py
+- tensorboard.pyc
