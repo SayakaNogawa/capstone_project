@@ -5,7 +5,7 @@ The Capstone Project for the Machine Learning Engineer Nanodegree.
 ## Contents
 
 - README.md
-- project_report.pdf
+- capstone_project.pdf
 - 1_download.ipynb
 - 2_visualization.ipynb
 - 3_preprocessing.ipynb
